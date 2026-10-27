@@ -1,0 +1,388 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-10-27",
+  "base_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main",
+  "cdn_base_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main",
+  "categories": [
+    {
+      "category_id": "ghosts",
+      "category_name": "Ghosts",
+      "count": 4,
+      "items": [
+        {
+          "id": "ghosts_01",
+          "title": "Ghosts 01",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_01.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_01_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_01.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_01_thumb.jpg",
+          "relative_path": "data/video_calls/ghosts/ghosts_01.mp4",
+          "relative_thumb_path": "data/video_calls/ghosts/ghosts_01_thumb.jpg",
+          "duration": 8.8,
+          "source_url": "https://www.pinterest.com/pin/987555024541801925/"
+        },
+        {
+          "id": "ghosts_02",
+          "title": "Ghosts 02",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_02.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_02_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_02.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_02_thumb.jpg",
+          "relative_path": "data/video_calls/ghosts/ghosts_02.mp4",
+          "relative_thumb_path": "data/video_calls/ghosts/ghosts_02_thumb.jpg",
+          "duration": 9.7,
+          "source_url": "https://www.pinterest.com/pin/798614946463728775/"
+        },
+        {
+          "id": "ghosts_03",
+          "title": "Ghosts 03",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_03.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_03_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_03.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_03_thumb.jpg",
+          "relative_path": "data/video_calls/ghosts/ghosts_03.mp4",
+          "relative_thumb_path": "data/video_calls/ghosts/ghosts_03_thumb.jpg",
+          "duration": 14.7,
+          "source_url": "https://www.pinterest.com/pin/798614946465262043/"
+        },
+        {
+          "id": "ghosts_04",
+          "title": "Ghosts 04",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_04.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/ghosts/ghosts_04_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_04.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/ghosts/ghosts_04_thumb.jpg",
+          "relative_path": "data/video_calls/ghosts/ghosts_04.mp4",
+          "relative_thumb_path": "data/video_calls/ghosts/ghosts_04_thumb.jpg",
+          "duration": 12.9,
+          "source_url": "https://www.pinterest.com/pin/610026712064317128/"
+        }
+      ]
+    },
+    {
+      "category_id": "undead",
+      "category_name": "Undead",
+      "count": 4,
+      "items": [
+        {
+          "id": "undead_01",
+          "title": "Undead 01",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_01.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_01_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_01.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_01_thumb.jpg",
+          "relative_path": "data/video_calls/undead/undead_01.mp4",
+          "relative_thumb_path": "data/video_calls/undead/undead_01_thumb.jpg",
+          "duration": 10.1,
+          "source_url": "https://www.pinterest.com/pin/798614946465320218/"
+        },
+        {
+          "id": "undead_02",
+          "title": "Undead 02",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_02.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_02_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_02.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_02_thumb.jpg",
+          "relative_path": "data/video_calls/undead/undead_02.mp4",
+          "relative_thumb_path": "data/video_calls/undead/undead_02_thumb.jpg",
+          "duration": 10.1,
+          "source_url": "https://www.pinterest.com/pin/798614946465340507/"
+        },
+        {
+          "id": "undead_03",
+          "title": "Undead 03",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_03.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_03_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_03.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_03_thumb.jpg",
+          "relative_path": "data/video_calls/undead/undead_03.mp4",
+          "relative_thumb_path": "data/video_calls/undead/undead_03_thumb.jpg",
+          "duration": 10.2,
+          "source_url": "https://www.pinterest.com/pin/798614946465490737/"
+        },
+        {
+          "id": "undead_04",
+          "title": "Undead 04",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_04.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/undead/undead_04_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_04.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/undead/undead_04_thumb.jpg",
+          "relative_path": "data/video_calls/undead/undead_04.mp4",
+          "relative_thumb_path": "data/video_calls/undead/undead_04_thumb.jpg",
+          "duration": 13.1,
+          "source_url": "https://www.pinterest.com/pin/830914200039141192/"
+        }
+      ]
+    },
+    {
+      "category_id": "classic",
+      "category_name": "Classic",
+      "count": 4,
+      "items": [
+        {
+          "id": "classic_01",
+          "title": "Classic 01",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_01.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_01_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_01.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_01_thumb.jpg",
+          "relative_path": "data/video_calls/classic/classic_01.mp4",
+          "relative_thumb_path": "data/video_calls/classic/classic_01_thumb.jpg",
+          "duration": 15.7,
+          "source_url": "https://www.pinterest.com/pin/922815779898658740/"
+        },
+        {
+          "id": "classic_02",
+          "title": "Classic 02",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_02.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_02_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_02.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_02_thumb.jpg",
+          "relative_path": "data/video_calls/classic/classic_02.mp4",
+          "relative_thumb_path": "data/video_calls/classic/classic_02_thumb.jpg",
+          "duration": 9.6,
+          "source_url": "https://www.pinterest.com/pin/999306604815084767/"
+        },
+        {
+          "id": "classic_03",
+          "title": "Classic 03",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_03.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_03_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_03.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_03_thumb.jpg",
+          "relative_path": "data/video_calls/classic/classic_03.mp4",
+          "relative_thumb_path": "data/video_calls/classic/classic_03_thumb.jpg",
+          "duration": 10.1,
+          "source_url": "https://www.pinterest.com/pin/795237246739896329/"
+        },
+        {
+          "id": "classic_04",
+          "title": "Classic 04",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_04.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/classic/classic_04_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_04.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/classic/classic_04_thumb.jpg",
+          "relative_path": "data/video_calls/classic/classic_04.mp4",
+          "relative_thumb_path": "data/video_calls/classic/classic_04_thumb.jpg",
+          "duration": 10.0,
+          "source_url": "https://www.pinterest.com/pin/953637289856821362/"
+        }
+      ]
+    },
+    {
+      "category_id": "alien",
+      "category_name": "Alien",
+      "count": 4,
+      "items": [
+        {
+          "id": "alien_01",
+          "title": "Alien 01",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_01.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_01_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_01.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_01_thumb.jpg",
+          "relative_path": "data/video_calls/alien/alien_01.mp4",
+          "relative_thumb_path": "data/video_calls/alien/alien_01_thumb.jpg",
+          "duration": 8.0,
+          "source_url": "https://www.pinterest.com/pin/902408844104674721/"
+        },
+        {
+          "id": "alien_02",
+          "title": "Alien 02",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_02.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_02_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_02.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_02_thumb.jpg",
+          "relative_path": "data/video_calls/alien/alien_02.mp4",
+          "relative_thumb_path": "data/video_calls/alien/alien_02_thumb.jpg",
+          "duration": 8.1,
+          "source_url": "https://www.pinterest.com/pin/353954851985634751/"
+        },
+        {
+          "id": "alien_03",
+          "title": "Alien 03",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_03.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_03_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_03.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_03_thumb.jpg",
+          "relative_path": "data/video_calls/alien/alien_03.mp4",
+          "relative_thumb_path": "data/video_calls/alien/alien_03_thumb.jpg",
+          "duration": 10.1,
+          "source_url": "https://www.pinterest.com/pin/1125899975622693093/"
+        },
+        {
+          "id": "alien_04",
+          "title": "Alien 04",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_04.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/alien/alien_04_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_04.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/alien/alien_04_thumb.jpg",
+          "relative_path": "data/video_calls/alien/alien_04.mp4",
+          "relative_thumb_path": "data/video_calls/alien/alien_04_thumb.jpg",
+          "duration": 12.9,
+          "source_url": "https://www.pinterest.com/pin/663084745154507841/"
+        }
+      ]
+    },
+    {
+      "category_id": "temptress",
+      "category_name": "Temptress",
+      "count": 6,
+      "items": [
+        {
+          "id": "temptress_01",
+          "title": "Temptress 01",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_01.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_01_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_01.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_01_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_01.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_01_thumb.jpg",
+          "duration": 6.1,
+          "source_url": "https://www.pinterest.com/pin/954129871065872723/"
+        },
+        {
+          "id": "temptress_02",
+          "title": "Temptress 02",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_02.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_02_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_02.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_02_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_02.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_02_thumb.jpg",
+          "duration": 10.4,
+          "source_url": "https://www.pinterest.com/pin/754001162650408784/"
+        },
+        {
+          "id": "temptress_03",
+          "title": "Temptress 03",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_03.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_03_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_03.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_03_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_03.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_03_thumb.jpg",
+          "duration": 12.1,
+          "source_url": "https://www.pinterest.com/pin/435512226489274232/"
+        },
+        {
+          "id": "temptress_04",
+          "title": "Temptress 04",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_04.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_04_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_04.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_04_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_04.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_04_thumb.jpg",
+          "duration": 15.4,
+          "source_url": "https://www.pinterest.com/pin/734649758001041595/"
+        },
+        {
+          "id": "temptress_05",
+          "title": "Temptress 05",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_05.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_05_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_05.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_05_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_05.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_05_thumb.jpg",
+          "duration": 10.2,
+          "source_url": "https://www.pinterest.com/pin/8092474326985742/"
+        },
+        {
+          "id": "temptress_06",
+          "title": "Temptress 06",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_06.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_06_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_06.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_06_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_06.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_06_thumb.jpg",
+          "duration": 6.1,
+          "source_url": "https://www.pinterest.com/pin/954129871065872779/"
+        }
+      ]
+    },
+    {
+      "category_id": "jumpscare",
+      "category_name": "Jumpscare",
+      "count": 4,
+      "items": [
+        {
+          "id": "jumpscare_01",
+          "title": "Jumpscare 01",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_01.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_01_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_01.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_01_thumb.jpg",
+          "relative_path": "data/video_calls/jumpscare/jumpscare_01.mp4",
+          "relative_thumb_path": "data/video_calls/jumpscare/jumpscare_01_thumb.jpg",
+          "duration": 14.5,
+          "source_url": "https://www.pinterest.com/pin/609534130805285912/"
+        },
+        {
+          "id": "jumpscare_02",
+          "title": "Jumpscare 02",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_02.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_02_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_02.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_02_thumb.jpg",
+          "relative_path": "data/video_calls/jumpscare/jumpscare_02.mp4",
+          "relative_thumb_path": "data/video_calls/jumpscare/jumpscare_02_thumb.jpg",
+          "duration": 15.1,
+          "source_url": "https://www.pinterest.com/pin/883831495628900568/"
+        },
+        {
+          "id": "jumpscare_03",
+          "title": "Jumpscare 03",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_03.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_03_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_03.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_03_thumb.jpg",
+          "relative_path": "data/video_calls/jumpscare/jumpscare_03.mp4",
+          "relative_thumb_path": "data/video_calls/jumpscare/jumpscare_03_thumb.jpg",
+          "duration": 10.4,
+          "source_url": "https://www.pinterest.com/pin/798614946468401625/"
+        },
+        {
+          "id": "jumpscare_04",
+          "title": "Jumpscare 04",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_04.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/jumpscare/jumpscare_04_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_04.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/jumpscare/jumpscare_04_thumb.jpg",
+          "relative_path": "data/video_calls/jumpscare/jumpscare_04.mp4",
+          "relative_thumb_path": "data/video_calls/jumpscare/jumpscare_04_thumb.jpg",
+          "duration": 10.0,
+          "source_url": "https://www.pinterest.com/pin/910641987207153531/"
+        }
+      ]
+    }
+  ]
+}
