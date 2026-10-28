@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "last_updated": "2026-10-27",
+  "last_updated": "2026-10-28",
   "base_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main",
   "cdn_base_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main",
   "categories": [
@@ -243,7 +243,7 @@
     {
       "category_id": "temptress",
       "category_name": "Temptress",
-      "count": 6,
+      "count": 10,
       "items": [
         {
           "id": "temptress_01",
@@ -255,8 +255,8 @@
           "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_01_thumb.jpg",
           "relative_path": "data/video_calls/temptress/temptress_01.mp4",
           "relative_thumb_path": "data/video_calls/temptress/temptress_01_thumb.jpg",
-          "duration": 6.1,
-          "source_url": "https://www.pinterest.com/pin/954129871065872723/"
+          "duration": 12.1,
+          "source_url": "https://www.pinterest.com/pin/1105000458572897601/"
         },
         {
           "id": "temptress_02",
@@ -268,8 +268,8 @@
           "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_02_thumb.jpg",
           "relative_path": "data/video_calls/temptress/temptress_02.mp4",
           "relative_thumb_path": "data/video_calls/temptress/temptress_02_thumb.jpg",
-          "duration": 10.4,
-          "source_url": "https://www.pinterest.com/pin/754001162650408784/"
+          "duration": 13.2,
+          "source_url": "https://www.pinterest.com/pin/1004232416937083144/"
         },
         {
           "id": "temptress_03",
@@ -281,8 +281,8 @@
           "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_03_thumb.jpg",
           "relative_path": "data/video_calls/temptress/temptress_03.mp4",
           "relative_thumb_path": "data/video_calls/temptress/temptress_03_thumb.jpg",
-          "duration": 12.1,
-          "source_url": "https://www.pinterest.com/pin/435512226489274232/"
+          "duration": 14.7,
+          "source_url": "https://www.pinterest.com/pin/1088252697459417592/"
         },
         {
           "id": "temptress_04",
@@ -294,8 +294,8 @@
           "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_04_thumb.jpg",
           "relative_path": "data/video_calls/temptress/temptress_04.mp4",
           "relative_thumb_path": "data/video_calls/temptress/temptress_04_thumb.jpg",
-          "duration": 15.4,
-          "source_url": "https://www.pinterest.com/pin/734649758001041595/"
+          "duration": 8.0,
+          "source_url": "https://www.pinterest.com/pin/997758492456778569/"
         },
         {
           "id": "temptress_05",
@@ -307,8 +307,8 @@
           "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_05_thumb.jpg",
           "relative_path": "data/video_calls/temptress/temptress_05.mp4",
           "relative_thumb_path": "data/video_calls/temptress/temptress_05_thumb.jpg",
-          "duration": 10.2,
-          "source_url": "https://www.pinterest.com/pin/8092474326985742/"
+          "duration": 6.1,
+          "source_url": "https://www.pinterest.com/pin/954129871065872723/"
         },
         {
           "id": "temptress_06",
@@ -320,6 +320,58 @@
           "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_06_thumb.jpg",
           "relative_path": "data/video_calls/temptress/temptress_06.mp4",
           "relative_thumb_path": "data/video_calls/temptress/temptress_06_thumb.jpg",
+          "duration": 10.4,
+          "source_url": "https://www.pinterest.com/pin/754001162650408784/"
+        },
+        {
+          "id": "temptress_07",
+          "title": "Temptress 07",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_07.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_07_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_07.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_07_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_07.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_07_thumb.jpg",
+          "duration": 12.1,
+          "source_url": "https://www.pinterest.com/pin/435512226489274232/"
+        },
+        {
+          "id": "temptress_08",
+          "title": "Temptress 08",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_08.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_08_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_08.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_08_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_08.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_08_thumb.jpg",
+          "duration": 15.4,
+          "source_url": "https://www.pinterest.com/pin/734649758001041595/"
+        },
+        {
+          "id": "temptress_09",
+          "title": "Temptress 09",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_09.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_09_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_09.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_09_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_09.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_09_thumb.jpg",
+          "duration": 10.2,
+          "source_url": "https://www.pinterest.com/pin/8092474326985742/"
+        },
+        {
+          "id": "temptress_10",
+          "title": "Temptress 10",
+          "media_type": "video",
+          "video_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_10.mp4",
+          "thumbnail_url": "https://raw.githubusercontent.com/Norevio/halloween-prank-data/main/data/video_calls/temptress/temptress_10_thumb.jpg",
+          "cdn_video_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_10.mp4",
+          "cdn_thumbnail_url": "https://cdn.jsdelivr.net/gh/Norevio/halloween-prank-data@main/data/video_calls/temptress/temptress_10_thumb.jpg",
+          "relative_path": "data/video_calls/temptress/temptress_10.mp4",
+          "relative_thumb_path": "data/video_calls/temptress/temptress_10_thumb.jpg",
           "duration": 6.1,
           "source_url": "https://www.pinterest.com/pin/954129871065872779/"
         }

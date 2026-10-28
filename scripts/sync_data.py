@@ -52,6 +52,10 @@ PINS = {
         "temptress": {
             "name": "Temptress",
             "urls": [
+                "https://www.pinterest.com/pin/1105000458572897601/",
+                "https://www.pinterest.com/pin/1004232416937083144/",
+                "https://www.pinterest.com/pin/1088252697459417592/",
+                "https://www.pinterest.com/pin/997758492456778569/",
                 "https://www.pinterest.com/pin/954129871065872723/",
                 "https://www.pinterest.com/pin/754001162650408784/",
                 "https://www.pinterest.com/pin/435512226489274232/",
